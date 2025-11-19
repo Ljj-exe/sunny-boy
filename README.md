@@ -1,3 +1,3 @@
 # sunny-boy
 
-type shi type shi
+validifying the validity of the sunny boy MBT data
